@@ -8,7 +8,7 @@ class SecondPage extends StatelessWidget {
   Widget build(BuildContext context) {
 
     return Scaffold(
-      appBar: AppBar(title: Text('Second Page'),),
+      appBar: AppBar(title: Text('Page Kedua'),),
       body: Center(child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
